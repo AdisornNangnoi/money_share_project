@@ -1,16 +1,4 @@
 # money_share_project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/AdisornNangnoi/money_share_project/assets/113957028/717659fa-f31f-498c-9cce-c0f7a35fe0f2)
+![image](https://github.com/AdisornNangnoi/money_share_project/assets/113957028/0dbb2a72-625d-4f9e-875f-8f8633a8066f)
